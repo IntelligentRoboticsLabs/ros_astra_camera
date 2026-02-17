@@ -2,8 +2,8 @@
 Changelog for package astra_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2026-02-17)
+------------------
 * modified to compile with rolling in ubuntu 24
 * Added namespace
 * Update CMakeLists & package
