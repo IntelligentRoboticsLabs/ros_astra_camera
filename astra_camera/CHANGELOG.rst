@@ -2,8 +2,8 @@
 Changelog for package astra_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2026-02-17)
+------------------
 * Fix CMakeLists for Conda packaging
 * Contributors: Francisco Martín Rico
 
